@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://gitee.com/wwwzz321/test_Plist/blob/master/IPADIR/WCG.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://192.168.11.3:8888/Users/mac/Downloads/webroot/icon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.yitoudai.wcg</string>
+				<key>bundle-version</key>
+				<string>5.2.3</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>App Subtitle</string>
+				<key>title</key>
+				<string>安装app</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
